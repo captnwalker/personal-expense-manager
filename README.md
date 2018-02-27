@@ -1,12 +1,12 @@
-# Expense-Manager5
+# Personal-Expense-Manager5
 
 ## Purpose of this Project
 
->**"Expense-Manager5"** allows an individual user or company to track personal or business expenses. Expense-Manager is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. The app is fully responsive for a seamless mobile-use experience. This version of the Expense-Manager has been customized for use by individuals.
+>**"Personal-Expense-Manager5"** allows an individual user or company to track personal or business expenses. Expense-Manager is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. The app is fully responsive for a seamless mobile-use experience. This version of the Expense-Manager has been customized for use by individuals.
 
 ### Table of Contents
 
-- [Expense-Manager](#expense-manager)
+- [Personal-Expense-Manager](#personal-expense-manager)
   - [Purpose of this Project](#purpose-of-this-project)
     - [Table of Contents](#table-of-contents)
     - [How to Use](#how-to-use)
@@ -23,15 +23,15 @@
 
 ### Deployment
 
- >The **[expense-manager5](https://expense-manager5.herokuapp.com/ "expense-manager5")** has been deployed to a Heroku Dyno and can be used by following the link. (Note: *Resting Dyno's can often take 10 to 15 seconds to spin up on initial load and are not indicative of a sites true load speed.*)
+ >The **[personal-expense-manager5](https://personal-expense-manager5.herokuapp.com/ "personal-expense-manager5")** has been deployed to a Heroku Dyno and can be used by following the link. (Note: *Resting Dyno's can often take 10 to 15 seconds to spin up on initial load and are not indicative of a sites true load speed.*)
 
 ### Screenshots of this Project
 
-![expense-manager](https://raw.github.com/captnwalker/expense-manager5/master/screenshots/scrnshot1.png "expense-manager")
+![personal-expense-manager5](https://raw.github.com/captnwalker/personal-expense-manager5/master/screenshots/screenshot1.png "personal-expense-manager5")
 
-![expense-manager](https://raw.github.com/captnwalker/expense-manager5/master/screenshots/scrnshot2.gif "expense-manager")
+![personal-expense-manager5](https://raw.github.com/captnwalker/personal-expense-manager5/master/screenshots/screenshot2.gif "personal-expense-manager5")
 
-![expense-manager](https://raw.github.com/captnwalker/expense-manager5/master/screenshots/scrnshot5.jpg "expense-manager")
+![personal-expense-manager5](https://raw.github.com/captnwalker/personal-expense-manager5/master/screenshots/screenshot5.jpg "personal-expense-manager5")
 
 ### Technologies Utilized
 
