@@ -1,0 +1,38 @@
+.login-layout {
+    align-items: center;
+    background: url('/img/stack.png');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    line-height: .6;
+    width: 100vw;
+}
+
+.login-layout__login {
+    background: fade-out(rgb(245, 90, 232), .7);
+    border-radius: 15px;
+    border-style: ridge;
+    border-color: $brand;
+    border-width: .5rem ;
+    padding: $m-size $s-size;
+    text-align: center;
+    width: 40rem;
+}
+
+.logo {
+    font-family: 'Federo',
+    sans-serif;
+    text-shadow: 3px 3px rgba(194, 194, 246, 0.719);
+    color: blue;
+    margin: 0 0 $m-size 0;
+    line-height: 1;
+}
+
+//*** font-family: 'Vidaloka',
+// serif;
+//***** font-family: 'Federo',
+// sans-serif;
+//*** font-family: 'Belleza',
+// sans-serif;
+
