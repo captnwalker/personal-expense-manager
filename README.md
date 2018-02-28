@@ -2,7 +2,7 @@
 
 ## Purpose of this Project
 
->**"Personal-Expense-Manager"** allows an individual user or company to track personal or business expenses. Expense-Manager is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. The app is fully responsive for a seamless mobile-use experience. This version of the Expense-Manager has been customized for use by individuals.
+>**"Personal-Expense-Manager"** allows an individual user or company to track personal or business expenses. Expense-Manager is built in React with SCSS styling which permits each individual element to occupy separate files making the product easily scalable and customizable by swapping components in and out as required for a wide variety of end users. The app is fully responsive for a seamless mobile user experience. This version of the Expense-Manager has been customized for use by individuals.
 
 ### Table of Contents
 
@@ -43,7 +43,7 @@
 | Redux | Google Login | Yarn | Redux-Devtools-Extension
 | Firebase DB | Firebase AuthO | UUID | extract-text-webpack-plugin
 | JSX | Validator | Redux-Thunk | Babel Poly-Fill
-| JavaScript | CSS3 | RegEx | LiveServer |
+| JavaScript | Favicon | RegEx | LiveServer |
 | HTML5 | dotenv | CSS Loader | History |
 
 ### Server-side Data Input Validation (Firebase)
