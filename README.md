@@ -15,7 +15,7 @@
     - [Technologies Utilized](#technologies-utilized)
     - [Server-side Data Input Validation (Firebase)](#server-side-data-input-validation-firebase)
     - [Steps to Deploy Locally](#steps-to-deploy-locally)
-    - [License -  MIT](#license---mit)
+      - [License -  MIT](#license---mit)
 
 ### How to Use
 
@@ -93,7 +93,15 @@
 3. Restore production files by running `yarn run build:prod`
 4. Start local server by running `yarn run dev-server`
 5. You are now in development mode on localhost:8080
+6. Deploy to hot of your choice: ex.; Heroku
+7. Connect to a database and authentication of your choice: ex.; Firebase
+8. Create Firebase DB and authentication per Firbase documentation
+9. Add API keys to your local project
+10. Set Firebase API keys in Heroku: `heroku config:set <list all 6 keys separated by a space>`
+11. You now should be able to login on your deployed site
+
+***Note:*** *If you encounter a `FIREBASE FATAL ERROR` when you attempt to launch your app, please refer to the repo [Firebase-Fatal-Error-Heroku-Deploy-Solved](https://github.com/captnwalker/Firebase-Fatal-Error-Heroku-Deploy-Solved "Firebase-Fatal-Error-Heroku-Deploy-Solved") for a possible solution.*
 
 ---
 
-### License -  MIT
+#### License -  MIT
