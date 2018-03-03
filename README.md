@@ -1,4 +1,4 @@
-# Personal-Expense-Manager
+# Personal-Expense-Manager  :moneybag: :money_with_wings:
 
 ## Purpose of this Project
 
