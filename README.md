@@ -109,6 +109,6 @@
 * [Expense-Manager](https://github.com/captnwalker/expense-manager "Expense-Manager")
 * [Personal-Expense-Manager](https://github.com/captnwalker/personal-expense-manager "Personal-Expense-Manager")
 * [Reservationist](https://github.com/captnwalker/reservationist "Reservationist")
-* [General-Ledger](https://personal-expense-manager5.herokuapp.com/ "personal-expense-manager5")*
+* [General-Ledger](https://github.com/captnwalker/general-ledger "General-Ledger")
 
 #### License -  MIT
